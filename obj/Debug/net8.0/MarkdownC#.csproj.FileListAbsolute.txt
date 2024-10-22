@@ -1,0 +1,15 @@
+/Users/philip.branting/Documents/Code/MarkdownC#/bin/Debug/net8.0/MarkdownC#
+/Users/philip.branting/Documents/Code/MarkdownC#/bin/Debug/net8.0/MarkdownC#.deps.json
+/Users/philip.branting/Documents/Code/MarkdownC#/bin/Debug/net8.0/MarkdownC#.runtimeconfig.json
+/Users/philip.branting/Documents/Code/MarkdownC#/bin/Debug/net8.0/MarkdownC#.dll
+/Users/philip.branting/Documents/Code/MarkdownC#/bin/Debug/net8.0/MarkdownC#.pdb
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.AssemblyInfoInputs.cache
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.AssemblyInfo.cs
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.csproj.CoreCompileInputs.cache
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.dll
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/refint/MarkdownC#.dll
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.pdb
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.genruntimeconfig.cache
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/ref/MarkdownC#.dll
+/Users/philip.branting/Documents/Code/MarkdownC#/obj/Debug/net8.0/MarkdownC#.sourcelink.json
